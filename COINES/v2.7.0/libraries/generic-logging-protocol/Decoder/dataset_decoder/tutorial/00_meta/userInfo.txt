@@ -1,0 +1,2 @@
+user_id,name,age,gender,height,weight,country,nationality,experience
+"3","Karthick",29,"Male",173,63,"Cob","IND","6"

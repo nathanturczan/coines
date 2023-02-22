@@ -1,0 +1,9 @@
+Version info:
+
+BHA260AB - V1.1.8.0
+BHI260AB - V1.1.8.0
+BHI260AP - V1.1.8.0
+
+BHI260AP_Klio - klio v3.0.2
+BHI260AP_PDR - PDR v2.0.3.0
+BHI260AP_Swim - Swim v2.3.0

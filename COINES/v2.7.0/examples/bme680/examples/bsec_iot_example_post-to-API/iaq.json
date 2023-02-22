@@ -1,0 +1,15 @@
+{
+	"serial":	"1",
+	"timestamp":	"65323",
+	"IAQ":	"144.178",
+	"IAQ_accuracy":	"1",
+	"temperature":	"20.4953",
+	"humidity":	"37.3774",
+	"pressure":	"1002.43",
+	"raw_temperature":	"20.56",
+	"raw_humidity":	"37.208",
+	"gas":	"203843",
+	"static_iaq":	"77.0605",
+	"co2_equivalent":	"770.605",
+	"breath_voc_equivalent":	"1.09836"
+}
